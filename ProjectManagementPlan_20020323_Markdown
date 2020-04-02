@@ -1,0 +1,139 @@
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+# PROJECT MANAGEMENT PLAN
+
+## SORTER
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+## THE VAN HALEN PROJECT
+
+### **PROJECT GOAL**
+
+We, the van Halen Project, are a group of students that got the task to make something incredible for our study.  After a big brainstorm session we came to the conclusion that we wanted to make a Sorting machine. But not any sorting machine, a color sorting machine.
+
+Everybody has experienced it once in a lifetime. You are on your way from work, and you are craving for some red skittles. But knowing that when you come home, you have to plough a way through all those purple and green ones to get the one you wanted, the red one. We said, &quot;this has to end&quot;, and are creating a machine where you can select any color of skittle you want, from all over the world, and let it sort it out for you. Then the moment you come home, you can enjoy, your red skittles!
+
+                                                                                        The van Halen Project
+
+
+
+
+
+
+
+### **WHO ARE WE**
+
+We are a team of 6 men following a software engineering study at Fontys Eindhoven. Our team include a variety of knowledge an a bunch of hardworking people. Let us meet the team:
+
+- [Ronald van den](https://fhict.instructure.com/groups/78623/users/13735) Burg
+- [Lex van](https://fhict.instructure.com/groups/78623/users/16756) Dalen
+- [Maikel](https://fhict.instructure.com/groups/78623/users/11839) Eerens
+- [Rory](https://fhict.instructure.com/groups/78623/users/16099)Lynch
+- [Patrick van](https://fhict.instructure.com/groups/78623/users/15546) Nieuwburg
+- [Slawomir](https://fhict.instructure.com/groups/78623/users/15662)Twardowski
+- [Lloyd van](https://fhict.instructure.com/groups/78623/users/11738) Zaalen
+
+
+
+
+
+
+
+
+
+
+
+### **DELIVERABLES**
+
+As a group we have to deliver a multi module system that uses client-server applications using a communication protocol. We have the following modules:
+
+- Arduino + MQTT (embedded)
+- Database (backend)
+- Web application (frontend)
+
+We need to make sure those modules can speak to one another using different communications by using interfaces. In the end we want to have a Fully build color sorter you can operate by using your smartphone or a web based program.
+
+
+
+
+
+
+
+### **SIGN-OFF**
+
+The sign off needs to be done in week 17 of our semester. The sign off is done by our teachers who will grade us on our (team)work. Although we need to work together as a group, we are being individually graded. Not every member of our team has to know every detail of the total system, but they should have dabbled here and there in the mater our teammates are responsible for.
+
+
+
+### **COMMINUCATION PLAN**
+
+Our main source of communication is by using WhatsApp Messenger. Next in line comes the BigBlueButton web application provided by our school. This is a very helpful tool to show of the progress you made. You can share your screen for every member of the team to see. The rest of the communication regarding the technical fidelity of our product goes through GitHub. It is not so much that we really communicate though this source, but we do the code reviews using GitHub.
+
+We made a &#39;Rule&#39; that whenever you make a pull request on GitHub it has to be approved by 2 other team members before you can merge it. The main goal of that &#39;rule&#39; is that the rest of the team knows a bit about what the other team member was making and another pro from using code review is that you have 2 extra set of eyes to glance over your code for any typo&#39;s etcetera.
+
+
+
+
+
+
+
+### **INFRASTRUCTURE**
+
+We need a lot off different applications for our project to work, we need a database, we need different IDE&#39;s. Here is a list op application we are using.
+
+IDE:
+
+IntelliJ – Java Programming
+
+Visual Studio Code – C# Programming
+
+Arduino IDE – Arduino Programming
+
+API&#39;S:
+
+….
+
+Communication:
+
+Big Blue Button – Video Conference
+
+WhatsApp Messenger – Daily / Normal Talk
+
+Canvas – Progress Tracking
+
+Repositories:
+
+Git Hub – Main Programming Repository
+
+Canvas – Documentation storage
+
+###
+
+### **PLANNING**
+
+Sprint 1 = 7 Maart
+
+Sprint 2 = 21 maart
+
+Sprint 3 = 12 april
