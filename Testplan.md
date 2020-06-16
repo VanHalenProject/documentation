@@ -358,15 +358,12 @@ Go to the create account screen at the **Frontend** and the Database at the **Ba
 
 | Test ID | Description | Expected Result | Actual Result | Succes? |
 | --- | --- | --- | --- | --- |
-| F\_ACC\_0.1 | In username type &quot;UserName1&quot;, in password type &quot;Password1&quot; and in emailtype &quot;dummy@fontys.nl&quot;. | The screen will confirm creation of account (&quot;Account created&quot;) and an entry of the user account info will be added to the Databasefile in the Backend. |
- |
- |
-| F\_ACC\_0.2 | After completing ACC\_0.1 reopen the create account screen. In username type &quot;UserName1&quot;, in password type &quot;Password1&quot; and in emailtype &quot;dummy2@fontys.nl&quot;. | The backend will verify that this username is already included in the Database and trigger an error message for the frontend. The screen will show an error message &quot;This username is already taken, please try again&quot;. |
- |
- |
-| F\_ACC\_0.3 | After completing ACC\_0.1 reopen the create account screen. In username type &quot;UserName2&quot;, in password type &quot;Password1&quot; and in emailtype &quot;dummy@fontys.nl&quot;. | The backend will verify that this email is already included in the Database and trigger an error message for the frontend. The screen will show an error message &quot;This email adress is already taken, please try again&quot;. |
- |
- |
+| F\_ACC\_0.1 | In username type &quot;UserName1&quot;, in password type &quot;Password1&quot; and in emailtype &quot;dummy@fontys.nl&quot;. | The screen will confirm creation of account (&quot;Account created&quot;) and an entry of the user account info will be added to the Databasefile in the Backend. | |
+|
+| F\_ACC\_0.2 | After completing ACC\_0.1 reopen the create account screen. In username type &quot;UserName1&quot;, in password type &quot;Password1&quot; and in emailtype &quot;dummy2@fontys.nl&quot;. | The backend will verify that this username is already included in the Database and trigger an error message for the frontend. The screen will show an error message &quot;This username is already taken, please try again&quot;. | |
+|
+| F\_ACC\_0.3 | After completing ACC\_0.1 reopen the create account screen. In username type &quot;UserName2&quot;, in password type &quot;Password1&quot; and in emailtype &quot;dummy@fontys.nl&quot;. | The backend will verify that this email is already included in the Database and trigger an error message for the frontend. The screen will show an error message &quot;This email adress is already taken, please try again&quot;. | |
+|
 
 Test 2 – Account Login Check
 
